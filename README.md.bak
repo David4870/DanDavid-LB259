@@ -16,7 +16,7 @@
 > > - **Customer type:** Art der Kunden, erfasst durch Mitglieder für Kunden mit Mitgliedskarte und Normal für Kunden ohne Mitgliedskarte.
 > > - **Gender:** Geschlecht der Kunden
 > > - **Product line:** Allgemeine Artikelkategorien - Elektronikzubehör, Modeaccessoires, Lebensmittel und Getränke, Gesundheit und Schönheit, Wohnen und Lifestyle, Sport und Reisen
-> > - **Unit price:** Preis der einzelnen Produkte in $
+> > - **Unit price:** Price of each product in $
 > > - **Quantity:** Anzahl der gekauften Produkte
 > > - **Tax:** 5% Steuergebühr für den Kunden beim Kauf
 > > - **Total:** Gesamtpreis einschließlich Steuern
